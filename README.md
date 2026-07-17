@@ -8,12 +8,9 @@
 with a focus on education, non-profits, and tools that work in low-resource environments.*
 
 [![Live Project](https://img.shields.io/badge/Live_Project-Namaa-7C3AED?style=for-the-badge)](https://osama-alhamwi.github.io/namaa-global/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-alhamwi-388a47184/)
 [![Email](https://img.shields.io/badge/Email-info@agilegroup.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@agilegroup.ai)
 [![Website](https://img.shields.io/badge/Web-agilegroup.ai-1c7293?style=for-the-badge&logo=googlechrome&logoColor=white)](https://agilegroup.ai)
-
-<!-- LinkedIn badge — paste your profile URL between the parentheses, then uncomment:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
--->
 
 
 </div>
@@ -88,7 +85,9 @@ one timely action instead of a wall of notifications.
 
 I'm open to work on **AI integration**, **web platforms**, and **tech-for-good** projects.
 
-📧 **info@agilegroup.ai** · 🌐 **[Agile Group](https://agilegroup.ai)**
+📧 **info@agilegroup.ai** ·
+💼 **[LinkedIn](https://www.linkedin.com/in/osama-alhamwi-388a47184/)** ·
+🌐 **[Agile Group](https://agilegroup.ai)**
 
 <div align="center">
 <sub>Building tools that outlive the hype. 🌱</sub>
